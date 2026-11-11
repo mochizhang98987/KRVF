@@ -8,8 +8,6 @@
 
 **Languages:** [English](README.md) | [中文](README_CN.md)
 
-**DEMO:** [YouTube](https://www.youtube.com/watch?v=GmTiUTxT-PY) | [Bilibili](https://www.bilibili.com/video/BV1QA5H6DEam/)
-
 > 一种面向机器人行动的、带来源感知的**语义体素世界**。
 
 > 一种机器人表达感知感受世界的方法

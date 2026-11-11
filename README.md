@@ -8,8 +8,6 @@
 
 **Languages:** [English](README.md) | [中文](README_CN.md)
 
-**Videos:** [YouTube](https://www.youtube.com/watch?v=GmTiUTxT-PY) | [Bilibili](https://www.bilibili.com/video/BV1QA5H6DEam/)
-
 > A source-aware semantic voxel world for robots that need to act.
 
 > A way for robots to express, remember, and reason about the world they perceive.
